@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.29569091b4fae64dba96feb1e385e27e.js"
+  "precache-manifest.f9395350796f76753b94192b6b5bd23f.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "workout_timer"});
